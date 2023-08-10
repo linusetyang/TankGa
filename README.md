@@ -6,19 +6,19 @@
 ### Version of Java: 16.0.2
 
 ***Note on Documentation: Please note that the documentation for this game is included within the repo, and the documentation 
-  goes into great detail in explaining both parts of my Final Project(both the Tank Game and the Pyramid Panic game)***
+  goes into great detail in explaining both parts of my Final Project(both the Tank Game)***
 
 
  **How to import the game:**
  
    1. Go to the "Project Structure" menu within IntelliJ and select the following:
    
-      - Set the Github repo("csc413-tankgame-aelshako") as the content root
+      - Set the Github repo("csc413-tankgame") as the content root
       - Set "src" folder as a source folder
       - Set the "src/resources" folder as a resource folder 
      
  **How to run the game:**
- 1. The easiest way to run the game is to simply copy the jar file("csc413-tankgame-aelshako.jar") found in the /jar folder.
+ 1. The easiest way to run the game is to simply copy the jar file("csc413-tankgame.jar") found in the /jar folder.
  2. Execute the jar file by either:
  
     - double clicking file.
